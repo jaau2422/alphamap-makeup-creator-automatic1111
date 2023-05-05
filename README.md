@@ -4,4 +4,4 @@ The map that is created is used to apply creative makeup looks to your face sinc
 The alpha mask creation uses open cv so you need to download the 68 facelandmarks model here 
 https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
 
-run python alphamap_stablediffusion.py
+run python alphamask_stablediffusion.py
